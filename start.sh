@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone github.com/phoenix-monarch/Wednesday-Pro.git /Elsa
+  git clone https://github.com/phoenix-monarch/Wednesday-Pro.git /Elsa
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /Elsa
