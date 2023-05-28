@@ -66,7 +66,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**sᴏɴɢs ᴄʜᴀɴɴᴇʟ** ›› [ᴍᴜsɪᴄ ᴠɪʙᴇ](https://t.me/cinemala_com1)**\n**ᴘᴏᴡᴇʀᴇᴅ ʙʏ ›› []ᴍᴜsɪᴄ ᴠɪʙᴇ(https://t.me/songs_vibex)**'
+        rep = '**sᴏɴɢs ᴄʜᴀɴɴᴇʟ** ›› [ᴍᴜsɪᴄ ᴠɪʙᴇ](https://t.me/song_vibex)**\n**ᴘᴏᴡᴇʀᴇᴅ ʙʏ ›› []ᴍᴜsɪᴄ ᴠɪʙᴇ(https://t.me/songs_vibex)**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
