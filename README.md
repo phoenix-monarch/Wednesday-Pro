@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/930ff28f8e22e70b00cfa.jpg" alt="Devil Botz">
+  <img src="https://telegra.ph/file/03a1c49f796490d5a6ed1.jpg" alt="TeamKazukai">
 </p>
 <h1 align="center">
   <b>Elsa</b>
