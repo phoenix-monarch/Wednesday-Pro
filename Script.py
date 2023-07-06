@@ -23,7 +23,7 @@ class script(object):
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:</b>
 × ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
-× ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/weebs_support">ʜᴇʀᴇ</a>
+× ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/xenxd">ʜᴇʀᴇ</a>
 
 × ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @Team_Netflix
 × Dᴇᴠᴇʟᴏᴘᴇʀ - <a href="https://t.me/xenxd">ᴍɪᴋєʏ ꜱᴀɴσ</a></b>"""
@@ -182,7 +182,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼"""
+ <i>This feature added by @team_netflix"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -255,12 +255,12 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-Elsa
+wednesday
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Name - {}
-Elsa
+wednesday
 """
     FILE_MSG = """
 <b>Hai 👋 {} </b>😍
@@ -306,7 +306,7 @@ IMDb Data:
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╭─────── • ◆ • ───────╮
-🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizard_nation">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/+QNl7gpHtzL8xYTc1">ᴋᴀɪᴢᴏʏᴜ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 
 ╭─────── • ◆ • ───────╮
@@ -339,12 +339,14 @@ IMDb Data:
 
     I_CUDNT = """ʜᴇʟʟᴏ {} ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇꜱ ɪɴ ᴛʜᴀᴛ ɴᴀᴍᴇ. 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 
+
 ╭─────── • ◆ • ───────╮
 ➠ ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ 
 ➠ ᴛʏᴘᴇ ᴍᴏᴠɪᴇ ɴᴀᴍᴇ 
 ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ
 ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ 
 ╰─────── • ◆ • ───────╯
+
 ᴇxᴀᴍᴘʟᴇ : ᴋᴀɴᴛᴀʀᴀ 2022 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ' : ( ! , . / )"""
 
